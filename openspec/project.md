@@ -10,6 +10,7 @@ None.
 
 ## Completed changes
 
+- `2026-06-14-add-github-actions-ci`: added GitHub Actions CI for build and test verification on pushes and pull requests.
 - `2026-06-14-add-python-fastmcp-calculator`: created a Python terminal calculator that also runs as a FastMCP MCP server for agent access.
 
 ## Working rules
